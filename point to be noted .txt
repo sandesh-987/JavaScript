@@ -1,0 +1,31 @@
+1) we canot varaibles without defining it.
+2) use camel case convention in Name ( sandeshPhuyal)
+3) all the empty are false(for string only)
+4) Zero is false other any number is True ( for number)
+
+Primitive and non primitive
+
+In primitive if there is word let a memory space is created but in non primitive before allocating memory first it 
+check wether a varaible is copy of another varaible if it is not copy then it will create memory for that varaible
+else it will share memory
+
+=== ko kaam 
+In case of primitive it sees the value but in the non Primitive its sees the memory location 
+
+## Interview question **
+What is event loop
+it is an event observe which check weather the JS is empty or or if JS is empty it send a function from memory
+queue to JS
+ 
+ what is asychronous function 
+ which push task to the background
+  
+or as a default value (32)
+   can be used to initilize the variable
+			during initilization first it looks for first value if the value is truthy value it returns the truthy
+             value else it will search next truthy value
+		    if all are falsy value it returns last falsy value
+
+            nullish
+            for || all are falsy value
+		but ?? only null and undefined are falsy value
